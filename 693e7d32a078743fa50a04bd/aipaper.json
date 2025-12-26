@@ -1,0 +1,12 @@
+{
+  "id": "693e7d32a078743fa50a04bd",
+  "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+  "originalUrl": "https://arxiv.org/abs/2301.12597",
+  "sourceType": "arxiv",
+  "status": "completed",
+  "completedAt": "2025-12-14T09:05:35.707Z",
+  "updatedAt": "2025-12-14T09:05:47.490Z",
+  "license": "CC BY 4.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by/4.0/",
+  "syncedAt": "2025-12-26T09:21:56.660Z"
+}

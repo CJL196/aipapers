@@ -1,0 +1,12 @@
+{
+  "id": "69457085742e302e037d05a3",
+  "title": "GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models",
+  "originalUrl": "https://arxiv.org/abs/2310.08529",
+  "sourceType": "arxiv",
+  "status": "completed",
+  "completedAt": "2025-12-19T15:47:23.901Z",
+  "updatedAt": "2025-12-20T07:23:26.425Z",
+  "license": "arXiv Nonexclusive-Distribution 1.0",
+  "licenseUrl": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "syncedAt": "2025-12-26T09:21:56.025Z"
+}
