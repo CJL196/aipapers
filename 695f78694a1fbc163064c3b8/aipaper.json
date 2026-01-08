@@ -3,10 +3,10 @@
   "title": "Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis",
   "originalUrl": "https://arxiv.org/abs/2507.18569",
   "sourceType": "arxiv",
-  "status": "analyzing",
-  "completedAt": null,
-  "updatedAt": "2026-01-08T09:28:22.436Z",
+  "status": "completed",
+  "completedAt": "2026-01-08T09:32:10.179Z",
+  "updatedAt": "2026-01-08T09:32:45.966Z",
   "license": "arXiv Nonexclusive-Distribution 1.0",
   "licenseUrl": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
-  "syncedAt": "2026-01-08T09:29:26.043Z"
+  "syncedAt": "2026-01-08T15:29:22.971Z"
 }
