@@ -1,12 +1,12 @@
 {
   "id": "69ae3bbee8c4f469fd63f781",
-  "title": "Pending…",
+  "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
   "originalUrl": "https://arxiv.org/abs/2405.10674",
   "sourceType": "arxiv",
-  "status": "parsing",
-  "completedAt": null,
-  "updatedAt": "2026-03-09T03:17:20.683Z",
-  "license": null,
-  "licenseUrl": null,
-  "syncedAt": "2026-03-09T03:17:58.865Z"
+  "status": "completed",
+  "completedAt": "2026-03-09T03:20:14.561Z",
+  "updatedAt": "2026-03-09T14:09:29.631Z",
+  "license": "arXiv Nonexclusive-Distribution 1.0",
+  "licenseUrl": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "syncedAt": "2026-03-10T03:18:36.510Z"
 }
